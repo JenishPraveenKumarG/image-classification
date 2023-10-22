@@ -3,12 +3,6 @@
 
 **Steps Involved**
 
-**Image Classification**
-
-        This code is a simple image classification script using a pre-trained MobileNetV2 model to identify objects or categories in an input image and display the top predictions. This type of code is commonly used in applications like image recognition and classification.
-
-**Steps Involved**
-
 **1. Import Libraries:**
 
         Import necessary libraries and tools for deep learning, including TensorFlow, Keras, and MobileNetV2.
