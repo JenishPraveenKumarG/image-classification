@@ -1,5 +1,5 @@
 # image-classification    
-        simple image classification script using a pre-trained MobileNetV2 model to identify and objects 
+        simple image classification script using a pre-trained MobileNetV2 model to identify and classify objects 
 
 **Steps Involved**
 
